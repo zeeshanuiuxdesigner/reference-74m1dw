@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zeeshanuiuxdesigner.github.io/reference-74m1dw/sitemap.xml
